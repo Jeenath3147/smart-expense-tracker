@@ -1,3 +1,5 @@
+
+
 # Smart Expense Tracker
 
 A desktop expense tracker built in Java, with a JavaFX graphical interface and a MySQL database backend. Add, edit, delete, and filter your expenses, see a running total, and view spending broken down by category and by month.
@@ -119,3 +121,6 @@ The `FakeExpenseRepository` lets the business logic be tested without a live dat
 javac *.java
 java TestRunner
 ```
+
+   ## Demo
+   [![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/QBSIzuZE0D0)
